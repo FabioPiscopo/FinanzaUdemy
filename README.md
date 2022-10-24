@@ -1,4 +1,4 @@
-# Trovate 3 dataset con dati sia storici che metadati riguardo il mondo della finanza. In particolare, in ordine di grandezza in MB:
+Trovate 3 dataset con dati sia storici che metadati riguardo il mondo della finanza. In particolare, in ordine di grandezza in MB:
 
 finanze e partecipazione ai corsi udemy 
 finanze e gdp indiane
